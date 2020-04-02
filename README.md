@@ -1,3 +1,2 @@
-# OS_HW2_STDIO_LIBRARY
-ACS Operating System Homework #2: Stdio Library
-
+ACS Operating Systems Homework #2: Stdio Library
+This is a minimalistic implementation of the stdio library.
